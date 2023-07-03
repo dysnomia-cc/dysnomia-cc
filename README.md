@@ -7,8 +7,8 @@ I do all the work. <br>
 This is a cry for help. 
 
 
-- jksja
-- jdwwi
+- Dysnomia
+ - Discord
 
 
 
