@@ -6,6 +6,13 @@ It's roots was formed way back, but it in it's current, androgynous form has onl
 I do all the work. <br>
 This is a cry for help. 
 
+
++ jksja
++ jdwwi
+
+
+
+
 # | ———————— | Links | ———————— |
 
 Only a [Doxbin](https://doxbin.com/user/dysnomialol) for now. <br>
