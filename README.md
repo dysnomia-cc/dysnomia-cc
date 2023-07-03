@@ -1,4 +1,4 @@
-<h1 text-align: centre;> dysnomia.cc </h1>
+<h1 style="text-align: centre;"> dysnomia.cc </h1>
 
 <!--
 **dysnomia-cc/dysnomia-cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
