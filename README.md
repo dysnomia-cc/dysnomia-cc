@@ -8,9 +8,12 @@ This is a cry for help.
 
 
 - Dysnomia
- - Discord
-
-
+    - Website
+        - HTML code
+        - In progress
+    - Loyalty
+        - Unstable
+        - Progessing
 
 
 # | ———————— | Links | ———————— |
